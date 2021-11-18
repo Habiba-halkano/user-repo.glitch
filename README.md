@@ -1,2 +1,2 @@
-# user-repo.glitch
+# user-repo
 Projects exported from glitch

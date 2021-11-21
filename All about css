@@ -23,3 +23,26 @@
   <h2> So what is css?</h2>
   <p> Css is the language we use to style HTML.It describes how HTML elements should be displayed.It therefore is necessary to learn some of its features and how one can use it to design his/her website.
   </p>
+
+
+    We can also use varous selectors such as the:
+    <ul>
+      <li>tag based selector</li>
+      <li>id based selector</li>
+      <li>class based selector</li>
+  </ul>
+    To learn more about css click here
+<a  target="blank"
+   href="https://www.w3schools.com/css/">Css</a>
+      <br>
+</br>
+
+<img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="100">
+<br>
+</br>
+<img src="https://image.flaticon.com/icons/png/512/28/28982.png" alt="css-logo" width="200" height="100">
+
+     
+</body>
+</html>
+

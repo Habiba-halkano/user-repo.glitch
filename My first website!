@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Learn css</title>
+</head>
+  <link rel ="stylesheet"href="./style.css"/>
+<body>
+  <h1> Introduction to CSS</h1>
+<p>Web Development has been an interesting technological set up of late.One of the languages needed for the creation of 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Learn css</title>
+</head>
+  <link rel ="stylesheet"href="./style.css"/>
+<body>
+  <h1> Introduction to CSS</h1>
+<p>Web Development has been an interesting technological set up of late.One of the languages needed for the creation of websites is CSS.The initials css stand for <strong>C</strong>ascading <strong>s</strong>tyle <strong>s</strong>heet.
+    </p>
+  <h2> So what is css?</h2>
+  <p> Css is the language we use to style HTML.It describes how HTML elements should be displayed.It therefore is necessary to learn some of its features and how one can use it to design his/her website.
+  </p>
